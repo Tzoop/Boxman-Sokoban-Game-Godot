@@ -4,7 +4,7 @@
  
  ![](https://github.com/Tzoop/Boxman-Sokoban-Game-Godot/blob/master/GifBoxmanForGitHub.gif)
  
- this here is the complete godot project folder
+ this here is the complete godot project folder (Godot 3.1 was used)
  
  because it was done for a game boy game jam it has only 4 colors at the same time and resolution is 160px * 144px.
  the resolution is upscaled 3 times, so it better to see on nowadays monitors.
