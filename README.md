@@ -7,7 +7,7 @@
  Here is the complete godot project folder (Godot 3.1 was used).
  
  Because it was done for a game boy game jam it has only 4 colors at the same time and resolution is 160px * 144px.
- The resolution is upscaled 3 times, so it better to see on nowadays monitors.
+ The resolution is upscaled 3 times, so the game better a bigger on nowadays monitors.
  
  The game boxman has 16 levels. The levels exist as txt.files in the level folder.
 
