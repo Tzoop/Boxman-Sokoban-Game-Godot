@@ -5,7 +5,7 @@
  because it was done for a game boy it has only 4 colors at the same time and resolution is 160px * 144px
  the resolution is upscaled 3 times, so it is bit better to see an actual screens.
  
- ![](GifBoxmanForGithub.gif)
+ ![](https://github.com/Tzoop/Boxman-Sokoban-Game-Godot/blob/master/GifBoxmanForGitHub.gif)
  
  the game was made for the GBJAM 7 https://itch.io/jam/gbjam-7  in august 2019
  
