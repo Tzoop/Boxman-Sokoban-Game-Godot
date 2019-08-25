@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sampl2_friday23.ogg-d3ba4a7405e11a857e9b9c3a76f01b8b.oggstr"
+
+[deps]
+
+source_file="res://Music/sampl2_friday23.ogg"
+dest_files=[ "res://.import/sampl2_friday23.ogg-d3ba4a7405e11a857e9b9c3a76f01b8b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
